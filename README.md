@@ -64,7 +64,7 @@ Breast_Cancer_Prediction/
 - Identify patterns and potential outliers.
 - Example visualizations:
   <p align="center">
-    <img src="https://seaborn.pydata.org/_images/seaborn-boxplot-1.png" width="350" alt="Boxplot Example"/>
+    <img src="/img/image.png" width="350" alt="Boxplot Example"/>
     <img src="https://seaborn.pydata.org/_images/seaborn-pairplot-1.png" width="350" alt="Pairplot Example"/>
   </p>
 
