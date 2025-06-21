@@ -4,23 +4,6 @@
 
 <h1 align="center">Breast Cancer Prediction using Machine Learning</h1>
 
-<p align="center">
-  <a href="https://github.com/milaan9">
-    <img src="https://img.shields.io/static/v1?logo=github&label=maintainer&message=milaan9&color=ff3300" alt="Maintainer"/>
-  </a>
-  <a href="https://hits.seeyoufarm.com">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmilaan9%2F93_Python_Data_Analytics_Projects%2Ftree%2Fmain%2F007_Breast_Cancer_Prediction_with_ML&count_bg=%231DC92C&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false"/>
-  </a>
-  <img src="https://img.shields.io/badge/python-3.7%2B-blue.svg" alt="Python Version"/>
-  <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License"/>
-</p>
-
-<p align="center">
-  <img src="https://cdn.pixabay.com/photo/2017/01/31/13/14/analysis-2025785_1280.png" width="400" alt="Data Analysis"/>
-</p>
-
----
-
 ## 🚀 Overview
 
 This project demonstrates how to use predictive analytics and machine learning to classify breast cancer tumors as **malignant** or **benign** using real-world data. The workflow covers the entire data science pipeline, from data exploration and preprocessing to model building, evaluation, and optimization.
@@ -36,7 +19,6 @@ This project demonstrates how to use predictive analytics and machine learning t
 - [Results](#results)
 - [Installation & Usage](#installation--usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ---
 
@@ -52,7 +34,7 @@ This project demonstrates how to use predictive analytics and machine learning t
 ## 🗂️ Project Structure
 
 ```
-Breast_Cancer_Prediction_with_ML/
+Breast_Cancer_Prediction/
 │
 ├── Breast_Cancer_Prediction.ipynb   # Main Jupyter notebook with code & analysis
 ├── data/                            # Dataset(s) used for the project
@@ -134,10 +116,6 @@ Breast_Cancer_Prediction_with_ML/
 Contributions are welcome! Please open an issue or submit a pull request for improvements or suggestions.
 
 ---
-
-<p align="center">
-  <img src="https://cdn.pixabay.com/photo/2017/06/10/07/18/doctor-2388500_1280.png" width="200" alt="Doctor"/>
-</p>
 
 <p align="center">
   <b>Empowering healthcare with data-driven insights.</b>
