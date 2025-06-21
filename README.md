@@ -65,7 +65,7 @@ Breast_Cancer_Prediction/
 - Example visualizations:
   <p align="center">
     <img src="/img/image.png" width="350" alt="Boxplot Example"/>
-    <img src="https://seaborn.pydata.org/_images/seaborn-pairplot-1.png" width="350" alt="Pairplot Example"/>
+    <img src="/img/image copy.png" width="400" alt="Pairplot Example"/>
   </p>
 
 ### 3. Data Preprocessing
